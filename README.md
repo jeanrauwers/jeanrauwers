@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/jeanrauwers"><img src="https://img.shields.io/github/followers/jeanrauwers.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/jeanrauwers"><img src="https://img.shields.io/twitter/follow/jeanrauwers?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/jeanrauwers"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.instagram.com/dev.jeanrauwers/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram"></a>
 </p>

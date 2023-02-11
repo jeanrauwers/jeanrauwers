@@ -1,26 +1,34 @@
-<div align="center">
-	  Hi there 👋 
-</div>
+## About
+\
 &nbsp;
 <div align="center">
-  <a href="https://github.com/jeanrauwers">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrauwers&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-</div> 
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&color=00cbf3&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Hello+World+%F0%9F%91%8B">
+</div>
 
-<!--
-**jeanrauwers/jeanrauwers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\
+&nbsp;
 
-Here are some ideas to get you started:
+I'm Jean ⚡, this is my personal journey from sales to software development
+\
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
+&nbsp;
+
+## Stats
+<br/>
+<div align="center">
+	<img src="https://gh-readme.vercel.app/api?username=jeanrauwers&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
+	<img src="https://gh-readme.vercel.app/api/top-langs/?username=jeanrauwers&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
+</div>
+<br/>
+
+<p align="center">
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeanrauwers&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px"></a>
+</p>
+<br/>
+
+
 &nbsp;
 <p align="center">
 	<a href="https://github.com/jeanrauwers"><img src="https://img.shields.io/github/followers/jeanrauwers.svg?label=GitHub&style=social" alt="GitHub"></a>

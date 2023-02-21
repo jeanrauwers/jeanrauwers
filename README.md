@@ -7,8 +7,9 @@
 
 \
 &nbsp;
-
+<div align="center">
 I'm Jean ⚡, this is my personal journey from sales to software development
+</div>
 \
 &nbsp;
 
